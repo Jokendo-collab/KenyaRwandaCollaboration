@@ -1,4 +1,4 @@
-## KenyaRwandaCollaboration
+## Project workplan
 This is the repository for Kenya and Rwanda collaboration for COVID-19 project.
 We shall do the following:
 - [x] Sample download
