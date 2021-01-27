@@ -5,3 +5,4 @@ We shall do the following:
 - [x] Sample annotation
 - [x] Individual country analysis
 - [x] Squence alignment using muscle aligner: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-113
+- [x] Aliview program: https://ormbunkar.se/aliview/
