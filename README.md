@@ -12,7 +12,9 @@ We shall do the following:
 ## Results
 - Phylogenetic tree visualization
 ![phylotree](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewic.png)
-=======================================
+
+![phylogen](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewic.png)
+
 ![phylo](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewiccr.png)
 ![xx](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewicseccircle.png)
 > Phylogenetic tree construction
