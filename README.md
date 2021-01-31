@@ -11,7 +11,7 @@ We shall do the following:
 
 ## Results
 - Phylogenetic tree visualization
-![phylotree](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewic.png)
+
 
 ![phylogen](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewic.png)
 
