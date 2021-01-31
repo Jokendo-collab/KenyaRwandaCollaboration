@@ -8,9 +8,9 @@ We shall do the following:
 - [x] Aliview program: https://ormbunkar.se/aliview/
 - [x] We shall use BEAST analysis, from which we get an estimated substitution rate
 - [x] BEAST Software - Bayesian Evolutionary Analysis Sampling: http://beast.community/
-#=================================================================
-Table. Estimate of the Mean Evolutionary Diversity for the Entire Population
-The number of base substitutions per site from mean diversity calculations for the entire population are shown (see eq. 12.73 in ref. [1]). Standard error estimate(s) are shown in the second column and were obtained by a bootstrap procedure (1000 replicates). Analyses were conducted using the Maximum Composite Likelihood model [2]. This analysis involved 99 nucleotide sequences. Codon positions included were 1st+2nd+3rd. All ambiguous positions were removed for each sequence pair (pairwise deletion option). There were a total of 30232 positions in the final dataset. Evolutionary analyses were conducted in MEGA X [3]
+
+## Table. Estimate of the Mean Evolutionary Diversity for the Entire Population
+The number of base substitutions per site from mean diversity calculations for the entire population was 87.46 shown  [1]. Standard error estimate(s) (76.68) are shown in the second column and were obtained by a bootstrap procedure (1000 replicates). Analyses were conducted using the Maximum Composite Likelihood model [2]. This analysis involved 99 nucleotide sequences. Codon positions included were 1st+2nd+3rd. All ambiguous positions were removed for each sequence pair (pairwise deletion option). There were a total of 30232 positions in the final dataset. Evolutionary analyses were conducted in MEGA X [3]
 
 1. Nei M. and Kumar S. (2000). Molecular Evolution and Phylogenetics. Oxford University Press, New York.
 2. Tamura K., Nei M., and Kumar S. (2004). Prospects for inferring very large phylogenies by using the neighbor-joining method. Proceedings of the National Academy of Sciences (USA) 101:11030-11035.
