@@ -12,6 +12,11 @@ We shall do the following:
 ## Results
 - Phylogenetic tree visualization
 ![phylotree](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewic.png)
+=======================================
+![phylo](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewiccr.png)
+![xx](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewicseccircle.png)
+![xxz](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewicseccircle.png)
+![xy](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewicunroot.png)
 > Phylogenetic tree construction
 
 ## Table. Estimate of the Mean Evolutionary Diversity for the Entire Population
