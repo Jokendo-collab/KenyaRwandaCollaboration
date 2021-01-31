@@ -11,7 +11,7 @@ We shall do the following:
 
 ## Results
 - Phylogenetic tree visualization
-![phylotree](Figure/boostrapTreeNewic.png)
+![phylotree](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewic.png)
 > Phylogenetic tree construction
 
 ## Table. Estimate of the Mean Evolutionary Diversity for the Entire Population
