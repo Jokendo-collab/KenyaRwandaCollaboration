@@ -44,4 +44,11 @@ Abbreviations: m = number of sequences, n = total number of sites, S = Number of
 1. Tajima F. (1989). Statistical methods to test for nucleotide mutation hypothesis by DNA polymorphism. Genetics 123:585-595.
 2. Kumar S., Stecher G., Li M., Knyaz C., and Tamura K. (2018). MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. Molecular Biology and Evolution 35:1547-1549.
 3. Nei M. and Kumar S. (2000). Molecular Evolution and Phylogenetics. Oxford University Press, New York.
+--------------------------------------------------------------------------------------------------------------------------------------
+## Maximum Likelihood Estimate of Gamma Parameter for Site Rates 
+
+The estimated value of the shape parameter for the discrete Gamma Distribution is 14.2261. Substitution pattern and rates were estimated under the Tamura-Nei (1993) model (+G) [1]. A discrete Gamma distribution was used to model evolutionary rate differences among sites (5 categories, [+G]). Mean evolutionary rates in these categories were 0.66, 0.84, 0.98, 1.12, 1.40 substitutions per site. The nucleotide frequencies are A = 29.67%, T/U = 32.33%, C = 18.36%, and G = 19.64%. For estimating ML values, a tree topology was automatically computed. The maximum Log likelihood for this computation was -105138.414. This analysis involved 37 nucleotide sequences. Codon positions included were 1st+2nd+3rd. All positions containing gaps and missing data were eliminated (complete deletion option). There were a total of 13622 positions in the final dataset. Evolutionary analyses were conducted in MEGA X [2] 
+
+1. Tamura K. and Nei M. (1993). Estimation of the number of nucleotide substitutions in the control region of mitochondrial DNA in humans and chimpanzees. Molecular Biology and Evolution 10:512-526.
+2. Kumar S., Stecher G., Li M., Knyaz C., and Tamura K. (2018). MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. Molecular Biology and Evolution 35:1547-1549.
 
