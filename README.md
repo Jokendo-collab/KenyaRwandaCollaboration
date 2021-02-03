@@ -20,8 +20,10 @@ The evolutionary history was inferred using the Neighbor-Joining method [1]. The
 2. Felsenstein J. (1985). Confidence limits on phylogenies: An approach using the bootstrap. Evolution 39:783-791.
 3. Tamura K., Nei M., and Kumar S. (2004). Prospects for inferring very large phylogenies by using the neighbor-joining method. Proceedings of the National Academy of Sciences (USA) 101:11030-11035.
 4. Kumar S., Stecher G., Li M., Knyaz C., and Tamura K. (2018). MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. Molecular Biology and Evolution 35:1547-1549.
- #=======================================================
+
 ![phylotree](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewic.png)
+> Phylogenetic tree comparing the four sample groups from Kenya, Rwanda, Uganda and Democratic republic of Congo
+
 ![phylo](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewiccr.png)
 ![xx](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewicseccircle.png)
 > Phylogenetic tree construction
