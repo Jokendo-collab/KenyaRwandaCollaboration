@@ -37,7 +37,7 @@ The number of base substitutions per site from mean diversity calculations for t
 ## Tajima's D neutrality test
 
 Table. Results from Tajima's Neutrality Test [1]
-Tajima's D was -0.499890. This analysis involved 37 nucleotide sequences. Codon positions included were 1st+2nd+3rd. All ambiguous positions were removed for each sequence pair (pairwise deletion option). There were a total of 30084 positions in the final dataset. Evolutionary analyses were conducted in MEGA X [2] 
+Tajima's D was -0.499890. This analysis involved 37 nucleotide sequences. Codon positions included were 1st+2nd+3rd. All ambiguous positions were removed for each sequence pair (pairwise deletion option). There were a total of 30084 positions in the final dataset. Evolutionary analyses were conducted in MEGA X [2]. This data shows a recent selective sweep, population expansion after a recent bottleneck, linkage to a swept gene.
 
 Abbreviations: m = number of sequences, n = total number of sites, S = Number of segregating sites, ps = S/n, Θ = ps/a1, π = nucleotide diversity, and D is the Tajima test statistic (see chapter 12 in ref. [3] for details).
 
