@@ -35,9 +35,13 @@ The number of base substitutions per site from mean diversity calculations for t
 3. Kumar S., Stecher G., Li M., Knyaz C., and Tamura K. (2018). MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. Molecular Biology and Evolution 35:1547-1549.
 
 ## Tajima's D neutrality test
-----------------------------------------------------------------------
-|m|	S|	Ps|	Θ|	π|	D|
----------------------------------------------------------------------
-|37|	28225|	0.938206356|	0.224743814|	0.195232029|	-0.499890181|
-|--------------------------------------------------------------------
+
+Table. Results from Tajima's Neutrality Test [1]
+Tajima's D was -0.499890. This analysis involved 37 nucleotide sequences. Codon positions included were 1st+2nd+3rd. All ambiguous positions were removed for each sequence pair (pairwise deletion option). There were a total of 30084 positions in the final dataset. Evolutionary analyses were conducted in MEGA X [2] 
+
+Abbreviations: m = number of sequences, n = total number of sites, S = Number of segregating sites, ps = S/n, Θ = ps/a1, π = nucleotide diversity, and D is the Tajima test statistic (see chapter 12 in ref. [3] for details).
+
+1. Tajima F. (1989). Statistical methods to test for nucleotide mutation hypothesis by DNA polymorphism. Genetics 123:585-595.
+2. Kumar S., Stecher G., Li M., Knyaz C., and Tamura K. (2018). MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. Molecular Biology and Evolution 35:1547-1549.
+3. Nei M. and Kumar S. (2000). Molecular Evolution and Phylogenetics. Oxford University Press, New York.
 
