@@ -21,7 +21,15 @@ The evolutionary history was inferred using the Neighbor-Joining method [1]. The
 3. Tamura K., Nei M., and Kumar S. (2004). Prospects for inferring very large phylogenies by using the neighbor-joining method. Proceedings of the National Academy of Sciences (USA) 101:11030-11035.
 4. Kumar S., Stecher G., Li M., Knyaz C., and Tamura K. (2018). MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. Molecular Biology and Evolution 35:1547-1549.
 ![phylotree](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewic.png)
+--------------------------------------------
+## Maximum Likelihood Estimate of Transition/Transversion Bias 
 
+The estimated Transition/Transversion bias (R) is 0.51. Substitution pattern and rates were estimated under the Kimura (1980) 2-parameter model [1]. The nucleotide frequencies are A = 25.00%, T/U = 25.00%, C = 25.00%, and G = 25.00%. For estimating ML values, a tree topology was automatically computed. The maximum Log likelihood for this computation was -106670.351. This analysis involved 37 nucleotide sequences. Codon positions included were 1st+2nd+3rd. All positions containing gaps and missing data were eliminated (complete deletion option). There were a total of 13622 positions in the final dataset. Evolutionary analyses were conducted in MEGA X [2] 
+
+
+1. Kimura M. (1980). A simple method for estimating evolutionary rate of base substitutions through comparative studies of nucleotide sequences. Journal of Molecular Evolution 16:111-120.
+2. Kumar S., Stecher G., Li M., Knyaz C., and Tamura K. (2018). MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. Molecular Biology and Evolution 35:1547-1549.
+------------------------------------------------------------------------------------
 ![phylo](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewiccr.png)
 ![xx](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewicseccircle.png)
 
