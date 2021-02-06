@@ -21,7 +21,7 @@ The evolutionary history was inferred using the Neighbor-Joining method [1]. The
 3. Tamura K., Nei M., and Kumar S. (2004). Prospects for inferring very large phylogenies by using the neighbor-joining method. Proceedings of the National Academy of Sciences (USA) 101:11030-11035.
 4. Kumar S., Stecher G., Li M., Knyaz C., and Tamura K. (2018). MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. Molecular Biology and Evolution 35:1547-1549.
 ----------------------------------------------------------------------
-## Substitution rates: Transition and transversion rates
+## ## Maximum Likelihood Estimate of Substitution Matrix:Transition and transversion rates
 ||A|T|C|G|
 |-----------|--------|--------------|--------|---|
 |A|-|*10.72*|*6.09*|**6.46**|
@@ -29,9 +29,11 @@ The evolutionary history was inferred using the Neighbor-Joining method [1]. The
 |C| *9.84*|**11.11** |- | *6.52*|
 |G| **9.77**|*10.72* |*6.09* |- |
 
+Each entry is the probability of substitution (r) from one base (row) to another base (column). Substitution pattern and rates were estimated under the Tamura-Nei (1993) model [1]. Rates of different transitional substitutions are shown in bold and those of transversionsal substitutions are shown in italics. Relative values of instantaneous r should be considered when evaluating them. For simplicity, sum of r values is made equal to 100, The nucleotide frequencies are A = 29.67%, T/U = 32.33%, C = 18.36%, and G = 19.64%. For estimating ML values, a tree topology was automatically computed. The maximum Log likelihood for this computation was -105173.804. This analysis involved 37 nucleotide sequences. Codon positions included were 1st+2nd+3rd. All positions containing gaps and missing data were eliminated (complete deletion option). There were a total of 13622 positions in the final dataset. Evolutionary analyses were conducted in MEGA X [2]
+
 ---------------------------------------------------------------------------------------------------------------------
+
 ![phylotree](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewic.png)
---------------------------------------------
 ## Maximum Likelihood Estimate of Transition/Transversion Bias 
 
 The estimated Transition/Transversion bias (R) is 0.51. Substitution pattern and rates were estimated under the Kimura (1980) 2-parameter model [1]. The nucleotide frequencies are A = 25.00%, T/U = 25.00%, C = 25.00%, and G = 25.00%. For estimating ML values, a tree topology was automatically computed. The maximum Log likelihood for this computation was -106670.351. This analysis involved 37 nucleotide sequences. Codon positions included were 1st+2nd+3rd. All positions containing gaps and missing data were eliminated (complete deletion option). There were a total of 13622 positions in the final dataset. Evolutionary analyses were conducted in MEGA X [2] 
@@ -72,13 +74,7 @@ The estimated value of the shape parameter for the discrete Gamma Distribution i
 2. Kumar S., Stecher G., Li M., Knyaz C., and Tamura K. (2018). MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. Molecular Biology and Evolution 35:1547-1549.
 
 -----------------------------------------------------------------------------
-## Maximum Likelihood Estimate of Substitution Matrix
- 	A	T/U	C	G
-A	-	10.72	6.09	6.46
-T/U	9.84	-	6.31	6.52
-C	9.84	11.11	-	6.52
-G	9.77	10.72	6.09	-
-NOTE.-- Each entry is the probability of substitution (r) from one base (row) to another base (column). Substitution pattern and rates were estimated under the Tamura-Nei (1993) model [1]. Rates of different transitional substitutions are shown in bold and those of transversionsal substitutions are shown in italics. Relative values of instantaneous r should be considered when evaluating them. For simplicity, sum of r values is made equal to 100, The nucleotide frequencies are A = 29.67%, T/U = 32.33%, C = 18.36%, and G = 19.64%. For estimating ML values, a tree topology was automatically computed. The maximum Log likelihood for this computation was -105173.804. This analysis involved 37 nucleotide sequences. Codon positions included were 1st+2nd+3rd. All positions containing gaps and missing data were eliminated (complete deletion option). There were a total of 13622 positions in the final dataset. Evolutionary analyses were conducted in MEGA X [2]
+
 
 -------------------------------------------------------
 
