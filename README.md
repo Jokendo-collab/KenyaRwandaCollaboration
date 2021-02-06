@@ -24,10 +24,10 @@ The evolutionary history was inferred using the Neighbor-Joining method [1]. The
 ## Substitution rates: Transition and transversion rates
 ||A|T|C|G|
 |-----------|--------|--------------|--------|---|
-|A|-|10.72|6.09|6.46|
-|T|9.84|-|6.31|6.52|
-|C| 9.84|11.11 |- | 6.52|
-|G| *9.77*|10.72 |6.09 |- |
+|A|-|10.72|6.09|**6.46**|
+|T|9.84|-|**6.31**|6.52|
+|C| 9.84|**11.11** |- | 6.52|
+|G| **9.77**|10.72 |6.09 |- |
 
 ---------------------------------------------------------------------------------------------------------------------
 ![phylotree](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewic.png)
