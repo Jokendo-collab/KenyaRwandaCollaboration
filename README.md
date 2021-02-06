@@ -22,12 +22,14 @@ The evolutionary history was inferred using the Neighbor-Joining method [1]. The
 4. Kumar S., Stecher G., Li M., Knyaz C., and Tamura K. (2018). MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. Molecular Biology and Evolution 35:1547-1549.
 ----------------------------------------------------------------------
 ## Substitution rates: Transition and transversion rates
-|A|Clusters|T|C|G|
+||A|T|C|G|
 |-----------|--------|--------------|--------|---|
 |A|1666|2068|3067|0.01|
 |T||||0.01|
 |C| | | | |
 |G| | | | |
+
+---------------------------------------------------------------------------------------------------------------------
 ![phylotree](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewic.png)
 --------------------------------------------
 ## Maximum Likelihood Estimate of Transition/Transversion Bias 
