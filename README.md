@@ -34,8 +34,7 @@ Each entry is the probability of substitution (r) from one base (row) to another
 ---------------------------------------------------------------------------------------------------------------------
 
 ![phylotree](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/boostrapTreeNewic.png)
-## Maximum Likelihood Estimate of Transition/Transversion Bias 
-
+> ### Maximum Likelihood Estimate of Transition/Transversion Bias 
 The estimated Transition/Transversion bias (R) is 0.51. Substitution pattern and rates were estimated under the Kimura (1980) 2-parameter model [1]. The nucleotide frequencies are A = 25.00%, T/U = 25.00%, C = 25.00%, and G = 25.00%. For estimating ML values, a tree topology was automatically computed. The maximum Log likelihood for this computation was -106670.351. This analysis involved 37 nucleotide sequences. Codon positions included were 1st+2nd+3rd. All positions containing gaps and missing data were eliminated (complete deletion option). There were a total of 13622 positions in the final dataset. Evolutionary analyses were conducted in MEGA X [2] 
 
 
