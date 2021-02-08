@@ -72,40 +72,6 @@ The estimated value of the shape parameter for the discrete Gamma Distribution i
 1. Tamura K. and Nei M. (1993). Estimation of the number of nucleotide substitutions in the control region of mitochondrial DNA in humans and chimpanzees. Molecular Biology and Evolution 10:512-526.
 2. Kumar S., Stecher G., Li M., Knyaz C., and Tamura K. (2018). MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. Molecular Biology and Evolution 35:1547-1549.
 
------------------------------------------------------------------------------
-|Position|	A	|C|G|T|Target|
-|--------|-----|----|--|---|
-241|	-	|-|-|1|c
-1519	-	-	-	1	c
-3037	-	-	-	1	c
-4573	-	-	-	1	c
-7420	-	-	-	1	c
-8782	-	-	-	1	c
-10747	-	-	-	1	c
-11230	-	-	-	1	g
-11266	-	-	-	1	g
-11521	-	-	-	1	g
-12439	-	-	-	1	c
-14408	-	-	-	1	c
-16575	-	-	-	1	c
-17745	-	-	-	1	c
-22000	-	-	-	1	c
-22033	1	-	-	-	c
-22081	1	-	-	-	g
-22661	-	-	-	1	g
-23401	-	-	-	1	g
-23403	-	-	1	-	a
-23604	-	-	1	-	c
-24097	-	1	-	-	t
-25782	-	-	-	1	c
-26017	-	-	1	-	t
-28144	-	1	-	-	t
-28167	1	-	-	-	g
-28378	-	1	-	-	g
-28878	1	-	-	-	g
-28887	-	-	-	1	c
-|29053|	-	|-	|1	|-	|a|
-|29742	|1|	-	|-|	-	|g|
-|29745	|-	|-	|-	|1	|g|
-
+## Re-analysis of the 108 sequence data from Rwandan population
+The mutation (SNP) was analysed using NanoPipe:https://academic.oup.com/gigascience/article/8/2/giy169/5300120
 
