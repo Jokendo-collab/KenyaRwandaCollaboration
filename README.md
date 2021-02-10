@@ -20,6 +20,9 @@ The evolutionary history was inferred using the Neighbor-Joining method [1]. The
 2. Felsenstein J. (1985). Confidence limits on phylogenies: An approach using the bootstrap. Evolution 39:783-791.
 3. Tamura K., Nei M., and Kumar S. (2004). Prospects for inferring very large phylogenies by using the neighbor-joining method. Proceedings of the National Academy of Sciences (USA) 101:11030-11035.
 4. Kumar S., Stecher G., Li M., Knyaz C., and Tamura K. (2018). MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. Molecular Biology and Evolution 35:1547-1549.
+
+![SNP](https://github.com/javanOkendo/KenyaRwandaCollaboration/blob/main/Figures/SNP_overlapp.png)
+> SNP overlap between four different sampling points
 ----------------------------------------------------------------------
 ## Maximum Likelihood Estimate of Substitution Matrix:Transition and transversion rates
 Each entry is the probability of substitution (r) from one base (row) to another base (column). Substitution pattern and rates were estimated under the Tamura-Nei (1993) model [1]. Rates of different transitional substitutions are shown in **bold** and those of transversionsal substitutions are shown in *italics*. Relative values of instantaneous r should be considered when evaluating them. For simplicity, sum of r values is made equal to 100, The nucleotide frequencies are A = 29.67%, T/U = 32.33%, C = 18.36%, and G = 19.64%. For estimating ML values, a tree topology was automatically computed. The maximum Log likelihood for this computation was -105173.804. This analysis involved 37 nucleotide sequences. Codon positions included were 1st+2nd+3rd. All positions containing gaps and missing data were eliminated (complete deletion option). There were a total of 13622 positions in the final dataset. Evolutionary analyses were conducted in MEGA X [2]
